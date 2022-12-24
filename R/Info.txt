@@ -1,0 +1,5 @@
+String: 256 + 4 + 4 + 8 = 272
+For 8 GB 
+8 * 1024 * 1024 * 1024 / 272 = 32 051 989 universal rows
+For 16 GB
+16 * 1024 * 1024 * 1024 / 272 = 64 103 954 universal rows

@@ -1,0 +1,216 @@
+0
+ xxx 
+x   x
+x   x
+x   x
+ xxx 
+1
+  x  
+ xx  
+x x  
+  x  
+xxxxx
+2
+xxxxx
+    x
+xxxxx
+x    
+xxxxx
+3
+xxxx 
+    x
+ xxx 
+    x
+xxxx 
+4
+x   x
+x   x
+xxxxx
+    x
+    x
+5
+xxxxx
+x    
+xxxx 
+    x
+xxxx 
+6
+xxxxx
+x    
+xxxxx
+x   x
+xxxxx
+7
+xxxxx
+x   x
+   x 
+  x  
+  x  
+8
+ xxx 
+x   x
+ xxx 
+x   x
+ xxx 
+9
+ xxx 
+x   x
+ xxxx
+    x
+xxxx 
+A
+ xxx 
+x   x
+xxxxx
+x   x
+x   x
+B
+xxxx 
+x   x
+xxxx 
+x   x
+xxxx 
+C
+ xxx 
+x   x
+x    
+x   x
+ xxx 
+D
+xxxx 
+x   x
+x   x
+x   x
+xxxx 
+E
+xxxxx
+x    
+xxxx 
+x    
+xxxxx
+F
+xxxxx
+x    
+xxxx 
+x    
+x    
+G
+ xxxx
+x    
+x  xx
+x   x
+ xxxx
+H
+x   x
+x   x
+xxxxx
+x   x
+x   x
+I
+xxxxx
+  x  
+  x  
+  x  
+xxxxx
+J
+    x
+    x
+    x
+x   x
+xxxxx
+K
+x   x
+x  x 
+xxx  
+x  x 
+x   x
+L
+x    
+x    
+x    
+x    
+xxxxx
+M
+x   x
+xx xx
+x x x
+x x x
+x   x
+N
+x   x
+xx  x
+x x x
+x  xx
+x   x
+O
+ xxx 
+x   x
+x   x
+x   x
+ xxx 
+P
+xxxx 
+x   x
+xxxx 
+x    
+x    
+Q
+ xxx 
+x   x
+x   x
+ xxx 
+  xxx
+R
+xxxx 
+x   x
+xxxx 
+x  x 
+x   x
+S
+ xxxx
+x    
+ xxx 
+    x
+xxxx 
+T
+xxxxx
+  x  
+  x  
+  x  
+  x  
+U
+x   x
+x   x
+x   x
+x   x
+ xxx 
+V
+x   x
+x   x
+ x x 
+ x x 
+  x  
+W
+x   x
+x   x
+x x x
+x x x
+ x x 
+X
+x   x
+ x x 
+  x  
+ x x 
+x   x
+Y
+x   x
+ x x 
+  x  
+  x  
+  x  
+Z
+xxxxx
+   x 
+  x  
+ x   
+xxxxx
